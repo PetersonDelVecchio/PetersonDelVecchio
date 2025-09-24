@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://github-readme-stats-mahdieths-projects.vercel.app/api/top-langs/?username=PetersonDelVecchio&layout=compact&theme=dark&langs_count=10&size_weight=0.25&count_weight=.9&border_color=ff35b5e1&locale=pt-br&card_width=400&hide=batchfile,powershell,shell">
+<a href="https://github.com/PetersonDelVecchio/">
+<img height=250 src="https://github-readme-stats-mahdieths-projects.vercel.app/api/top-langs/?username=PetersonDelVecchio&layout=compact&theme=dark&langs_count=10&size_weight=0.25&count_weight=.9&border_color=ff35b5e1&locale=pt-br&card_width=400&hide=batchfile,powershell,shell">
+</a>
