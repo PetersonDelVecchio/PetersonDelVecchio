@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Peterson Del Vecchio Costa  
 
-💻 **Fullstack Developer | React, Vue.js, Node.js, C#, Java**  
+💻 **Fullstack Developer | React, Typescript, Node.js, NestJS**  
 🌍 Experiência no Brasil e Austrália, desenvolvendo sistemas Web, Mobile e PDV  
 🚀 Apaixonado por **código limpo, escalabilidade e boas práticas de desenvolvimento**  
 📚 Sempre aprendendo e aplicando **novas tecnologias**  
